@@ -16,7 +16,7 @@ body {
 }
 
 .header {
-  background: url(after.jpg) no-repeat center center; 
+  background: url(after.JPG) no-repeat center center; 
   
   background-size: cover;
   height: 800px;
@@ -174,19 +174,19 @@ body {
 }
 
 .photo1 {
-  background: url(capture1.jpg) center center;
+  background: url(Capture1.JPG) center center;
   background-size: cover;
   height: 400px; 
 }
 
 .photo2 {
-  background: url(capture2.jpg) center center;
+  background: url(Capture2.JPG) center center;
   background-size: cover;
   height: 400px; 
 }
 
 .photo3 {
-  background: url(capture3.jpg) center center;
+  background: url(Capture3.JPG) center center;
   background-size: cover;
   height: 400px; 
 }
