@@ -17,7 +17,6 @@ body {
 
 .header {
   background: url(after.JPG) no-repeat center center; 
-  
   background-size: cover;
   height: 800px;
   text-align: center;
@@ -173,24 +172,31 @@ body {
   cursor: pointer;
 }
 
-.photo1 {
-  background: url(Capture1.JPG) center center;
-  background-size: cover;
-  height: 400px; 
+.karim-photo {
+  height : 150px;
+  width : 150px ;
+  border-radius : 50%;
+  
 }
 
-.photo2 {
-  background: url(Capture2.JPG) center center;
-  background-size: cover;
-  height: 400px; 
+
+.gabriel-photo {
+  height : 150px;
+  width : 150px ;
+  border-radius : 50%;
 }
 
-.photo3 {
-  background: url(Capture3.JPG) center center;
-  background-size: cover;
-  height: 400px; 
+.melanie-photo {
+  height : 150px;
+  width : 150px ;
+  border-radius : 50%;
 }
 
+.thomas-photo {
+  height : 150px;
+  width : 150px ;
+  border-radius : 50%;
+}
 
 
 
