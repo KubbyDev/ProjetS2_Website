@@ -102,7 +102,7 @@ body {
 }
 
 .jumbotron {
-  background: url(https://forum.unity.com/attachments/screenshot_2015-12-23-02-48-33-png.166936/?temp_hash=b2a60300a7cc2b2860e15ccde432cf47) center center;
+  background: url(unity.jpg) center center;
   background-size: cover;
   height: 400px; 
 }
@@ -172,31 +172,67 @@ body {
   cursor: pointer;
 }
 
+
+
 .karim-photo {
-  height : 150px;
-  width : 150px ;
+  height : 100px;
+  width : 100px ;
   border-radius : 50%;
   
 }
 
+.Creators {
+  background-color : black;
+}
+.Creators p {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
 
+.photo1 {
+  background-image: url(moon.jpg);
+  
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+.photo2 {
+  background-image: url(moon2.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 .gabriel-photo {
-  height : 150px;
-  width : 150px ;
+  height : 100px;
+  width : 100px ;
   border-radius : 50%;
 }
 
+.photo3 {
+  background-image: url(moon3.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 .melanie-photo {
-  height : 150px;
-  width : 150px ;
+  height : 100px;
+  width : 100px ;
   border-radius : 50%;
 }
+
 
 .thomas-photo {
-  height : 150px;
-  width : 150px ;
+  height : 100px;
+  width : 100px ;
   border-radius : 50%;
 }
+.photo4 {
+  background-image: url(moon4.jpg);
+  background-size: 100%;
+
+}
+
 
 
 
