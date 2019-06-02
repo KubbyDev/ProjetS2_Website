@@ -98,7 +98,7 @@ body {
 
 .main img {
   float: left;
-  margin: 50px 80px 50px 0;
+  margin: 10px 80px 50px 0;
 }
 
 .jumbotron {
@@ -175,10 +175,10 @@ body {
 
 
 .karim-photo {
-  height : 100px;
-  width : 100px ;
+  height : 150px;
+  width : 150px ;
   border-radius : 50%;
-  
+  margin : 0px 380px;
 }
 
 .Creators {
@@ -205,9 +205,10 @@ body {
   background-repeat: no-repeat;
 }
 .gabriel-photo {
-  height : 100px;
-  width : 100px ;
+  height : 150px;
+  width : 150px ;
   border-radius : 50%;
+  margin : 0px 380px;
 }
 
 .photo3 {
@@ -216,16 +217,18 @@ body {
   background-repeat: no-repeat;
 }
 .melanie-photo {
-  height : 100px;
-  width : 100px ;
+  height : 150px;
+  width : 150px ;
   border-radius : 50%;
+  margin : 0px 380px;
 }
 
 
 .thomas-photo {
-  height : 100px;
-  width : 100px ;
+  height : 150px;
+  width : 150px ;
   border-radius : 50%;
+  margin : 0px 380px auto ;
 }
 .photo4 {
   background-image: url(moon4.jpg);
