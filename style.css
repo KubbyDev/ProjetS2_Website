@@ -1,7 +1,7 @@
 
 html, body {
   margin: 40px;
-  background-color: white;
+  background-color: black;
   padding: 0px;
 }
 
@@ -94,7 +94,8 @@ body {
 }
 
 .main .container {
-  margin: 80px auto;
+  margin: 100px auto;
+  background-color: white;
 }
 
 .main img {
