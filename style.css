@@ -95,12 +95,14 @@ body {
 
 .main .container {
   margin: 100px auto;
-  background-color: white;
+  color : white;
+  
 }
 
 .main img {
   float: left;
   margin: 10px 80px 50px 0;
+  background-color: white;
 }
 
 .jumbotron {
@@ -190,6 +192,7 @@ body {
   color: white;
   font-family: 'Roboto', sans-serif;
   text-align: center;
+  margin: 0px 15%;
 }
 
 .photo1 {
@@ -206,6 +209,8 @@ body {
   background-size: 100%;
   background-repeat: no-repeat;
 }
+
+
 .gabriel-photo {
   height : 150px;
   width : 150px ;
