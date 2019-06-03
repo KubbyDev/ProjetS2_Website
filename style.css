@@ -1,6 +1,6 @@
 
 html, body {
-  margin: 20px;
+  margin: 40px;
   background-color: white;
   padding: 0px;
 }
@@ -179,7 +179,7 @@ body {
   height : 150px;
   width : 150px ;
   border-radius : 50%;
-  margin : 0px 380px;
+  margin : 0px 45%;
 }
 
 .Creators {
@@ -209,7 +209,7 @@ body {
   height : 150px;
   width : 150px ;
   border-radius : 50%;
-  margin : 0px 380px;
+  margin : 0px 45%;
 }
 
 .photo3 {
@@ -221,7 +221,7 @@ body {
   height : 150px;
   width : 150px ;
   border-radius : 50%;
-  margin : 0px 380px;
+  margin : 0px 45%;
 }
 
 
@@ -229,7 +229,7 @@ body {
   height : 150px;
   width : 150px ;
   border-radius : 50%;
-  margin : 0px 380px auto ;
+  margin : 0px 45%  ;
 }
 .photo4 {
   background-image: url(moon4.jpg);
