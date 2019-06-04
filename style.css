@@ -1,13 +1,14 @@
 
 html, body {
   margin: 40px;
-  background-color: black;
+
   padding: 0px;
 }
 
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
+  
 }
 
 .container {
@@ -207,9 +208,7 @@ body {
   margin : 0px 45%;
 }
 
-.Creators {
-  background-color : black;
-}
+
 .Creators p {
   color: white;
   font-family: 'Roboto', sans-serif;
