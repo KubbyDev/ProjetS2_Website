@@ -25,7 +25,7 @@ body {
 }
 
 .header .container {
-  position: relative;
+  position: static;
   top: 200px;
 }
 
@@ -34,7 +34,7 @@ body {
   line-height: 100px; 
   font-size: 80px;
   margin-top: 0;
-  margin-bottom: 80px;
+  margin-bottom: 150px;
   text-transform: uppercase; 
 }
 
@@ -62,7 +62,7 @@ body {
 }
 
 .nav { 
-  background: transparent;
+  background: black;
   height: 80px; 
   width: 100%;
   position: fixed;
@@ -114,6 +114,10 @@ body {
   color : white;
   font-size: 25px;
   
+}
+
+.trans {
+  color : transparent;
 }
 
 
