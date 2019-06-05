@@ -205,8 +205,8 @@ body {
 }
 
 .karim-photo {
-  height : 150px;
-  width : 150px ;
+  height : 100px;
+  width : 125px ;
   border-radius : 50%;
   margin : 0px 45%;
 }
@@ -226,24 +226,24 @@ body {
 
 
 .gabriel-photo {
-  height : 150px;
-  width : 150px ;
+  height : 100px;
+  width : 125px ;
   border-radius : 50%;
   margin : 0px 45%;
 }
 
 
 .melanie-photo {
-  height : 150px;
-  width : 150px ;
+  height : 100px;
+  width : 125px ;
   border-radius : 50%;
   margin : 0px 45%;
 }
 
 
 .thomas-photo {
-  height : 150px;
-  width : 150px ;
+  height : 100px;
+  width : 125px ;
   border-radius : 50%;
   margin : 0px 45%  ;
 }
