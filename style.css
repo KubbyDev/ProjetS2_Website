@@ -201,16 +201,17 @@ body {
   color: white;
   font-family: 'Roboto', sans-serif;
   text-align: center;
-  margin: 0px 15%;
+  margin: 50px 15%;
 }
 
 .karim-photo {
-  height : 100px;
-  width : 125px ;
+  height : 250px;
+  width : 200px;
   border-radius : 50%;
-  margin : 0px 45%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 
 .Creators p {
   color: white;
@@ -219,33 +220,33 @@ body {
   font-size: 25px;
 }
 
-
-
-
-
-
-
 .gabriel-photo {
-  height : 100px;
-  width : 125px ;
+  height : 250px;
+  width : 200px;
   border-radius : 50%;
-  margin : 0px 45%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
 .melanie-photo {
-  height : 100px;
-  width : 125px ;
+  height : 250px;
+  width : 200px;
   border-radius : 50%;
-  margin : 0px 45%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
 .thomas-photo {
-  height : 100px;
-  width : 125px ;
+  height : 250px;
+  width : 200px;
   border-radius : 50%;
-  margin : 0px 45%  ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
